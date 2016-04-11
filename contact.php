@@ -1,8 +1,8 @@
 <?php
 // Email Setting
 //=======================================
-$admin_email = "yourname@email.com";
-$from_name   = "Site Coming Soon";
+$admin_email = "blai13@simons-rock.edu";
+$from_name   = "web_page";
 
 
 
